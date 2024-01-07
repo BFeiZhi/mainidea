@@ -1,14 +1,14 @@
 {
-  "title": "小鱼档案",
-  "description": "有关小鱼的《蔚蓝档案》风格的个人主页",
+  "title": "白稚档案",
+  "description": "BFeiZhi的个人档案*.*",
   "favicon": "/favicon144.png",
-  "author": "小鱼yuzifu",
-  "keywords": "蔚蓝档案,小鱼yuzifu,个人主页",
+  "author": "BFeiZhi",
+  "keywords": "蔚蓝档案,BFeiZhi,个人主页",
   "ICP": "",
   "manifest": {
-    "name": "小鱼档案",
-    "short_name": "小鱼档案",
-    "description": "有关小鱼的《蔚蓝档案》风格的个人主页",
+    "name": "白稚档案",
+    "short_name": "白稚档案",
+    "description": "BFeiZhi的个人档案*.*",
     "theme_color": "#128AFA",
     "start_url": "/",
     "id": "Homepage",
@@ -30,8 +30,8 @@
   "iconfont": "https://at.alicdn.com/t/c/font_4336463_0i6ly0yvyzb.js",
   "dock": [
     {
-      "name": "一起吃小鱼",
-      "href": "https://gitee.com/sf-yuzifu/eat-fish-together",
+      "name": "蜜柑计划",
+      "href": "https://mikanani.me/",
       "imgSrc": "/img/fish.png"
     },
     {
