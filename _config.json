@@ -30,24 +30,19 @@
   "iconfont": "https://at.alicdn.com/t/c/font_4336463_0i6ly0yvyzb.js",
   "dock": [
     {
-      "name": "一起吃小鱼",
-      "href": "https://gitee.com/sf-yuzifu/eat-fish-together",
+      "name": "蜜柑计划",
+      "href": "https://mikanani.me/",
       "imgSrc": "/img/fish.png"
     },
     {
-      "name": "编程猫格式工厂",
-      "href": "https://gitee.com/sf-yuzifu/bcm_convertor",
-      "imgSrc": "/img/convertor.png"
+      "name": "动漫花园",
+      "href": "https://dmhy.org/",
+      "imgSrc": "/img/fish.png"
     },
     {
-      "name": "Waddle编辑器",
-      "href": "https://waddle.coco-central.cn/",
-      "imgSrc": "/img/waddle2.png"
-    },
-    {
-      "name": "PICKDUCK",
-      "href": "https://shequ.pgaot.com/",
-      "imgSrc": "/img/pickduck.png"
+      "name": "OmoFun",
+      "href": "https://omoget.com/",
+      "imgSrc": "/img/fish.png"
     },
     {
       "name": "Boxy编辑器",
